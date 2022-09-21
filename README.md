@@ -1,27 +1,44 @@
-Project Name: Microverse Project (1st Week)
-Description the project. (Microverse Project task for 1st week)
+# Microverse Project (1st Week)
 
-Major languages: HTML & CSS
+> Microverse first week project which have files of html and css as well as correcting using linters. Code is pushed on Github repositoriery.
 
-Prerequisites
-Setup
-Install: VS Code, Chorme Browser
-Authors
-👤 Author1
 
-GitHub: @umair-rao
-LinkedIn: https://www.linkedin.com/in/engr-umair-muqeem/
+## Built With
 
-Feel free to check the issues page.
+- html
+- css
 
-Show your support
+## Authors
+
+- GitHub: [@umair-rao](https://github.com/umair-rao)
+- Twitter: [@umair_ra0](https://twitter.com/umair_ra0)
+- LinkedIn:(https://www.linkedin.com/in/engr-umair-muqeem/)
+
+
+
+## List of technologies
+
+ - Visual Studio Code
+ - Github
+ 
+## Instuctions to set up project locally
+ - Download zip file of the project
+ - Extract folder to the hard drive
+ - Opened index.html file with any modern web browser i.e. chrome
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
 Give a ⭐️ if you like this project!
 
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
-📝 License
-This project is MIT licensed.
+## Acknowledgments
 
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+- Microverse
+
+##Licence
+ - This project is [MIT](./license) licensed.
