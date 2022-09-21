@@ -10,6 +10,7 @@
 
 ## Authors
 
+- Name: Muhammad Umair Muqeem
 - GitHub: [@umair-rao](https://github.com/umair-rao)
 - Twitter: [@umair_ra0](https://twitter.com/umair_ra0)
 - LinkedIn:(https://www.linkedin.com/in/engr-umair-muqeem/)
